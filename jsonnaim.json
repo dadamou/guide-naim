@@ -28,12 +28,12 @@
 		
         "color": "#FFFFFF",
         "text_size": "25",
-        "isLink": "",
+        "isLink": false,
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
         "text": "Dark Meadow : The Pact",
-        "isNative": "false"
+        "isNative": false
 		
       },
       {
@@ -41,12 +41,12 @@
         "image": "https://usercontent1.hubstatic.com/8037694.jpg",
 		"color": "#FFFFFF",
         "text_size": "25",
-        "isLink": "",
+        "isLink": false,
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
         "text": "Dark Meadow : The Pact",
-        "isNative": "false"
+        "isNative": false
       }
     ]
 
