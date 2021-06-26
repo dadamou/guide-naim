@@ -49,15 +49,15 @@
       "id" : 0,
       "imageURL" : "https://dadamou.github.io/guide-naim/icon_lancher.png",
       "state" : "free",
-      "title" : "Test title 0",
-      "description" : "Test description 0",
-      "written" : "Test written 0 <br>My written"
+      "title" : "",
+      "description" : "",
+      "written" : ""
     },
     {
       "id" : 1,
       "imageURL" : "https://dadamou.github.io/guide-naim/icon_lancher.png",
       "state" : "free",
-      "title" : "Test title 1",
+      "title" : "Step 1",
       "description" : "Test description 1",
       "written" : "Test written 1"
     },
@@ -65,17 +65,17 @@
       "id" : 2,
       "imageURL" : "https://dadamou.github.io/guide-naim/icon_lancher.png",
       "state" : "free",
-      "title" : "Test title 2",
-      "description" : "Test description 2",
-      "written" : "Test written 2"
+      "title" : "Step 2",
+      "description" : "",
+      "written" : ""
     },
     {
       "id" : 3,
       "imageURL" : "https://dadamou.github.io/guide-naim/icon_lancher.png",
       "state" : "free",
-      "title" : "Test title 3",
-      "description" : "Test description 3",
-      "written" : "Test written 3"
+      "title" : "Step 3",
+      "description" : "",
+      "written" : ""
     }
   ]
 }
